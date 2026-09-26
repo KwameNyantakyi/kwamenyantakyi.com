@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c028c27e.css",
-    "main.js": "/static/js/main.3dfed606.js",
+    "main.js": "/static/js/main.c1028d8c.js",
     "static/js/488.da4cd5cb.chunk.js": "/static/js/488.da4cd5cb.chunk.js",
     "static/media/kwame-fiverr-pic-1.jpg": "/static/media/kwame-fiverr-pic-1.5fb0623fe896fef2bb32.jpg",
     "static/media/kwame-fiverr-pic-2.jpg": "/static/media/kwame-fiverr-pic-2.feb7127b3f6a36176221.jpg",
@@ -22,11 +22,11 @@
     "index.html": "/index.html",
     "static/media/vorim-logo.svg": "/static/media/vorim-logo.eb9ea8a472a69a10f3c24c2cc346462a.svg",
     "main.c028c27e.css.map": "/static/css/main.c028c27e.css.map",
-    "main.3dfed606.js.map": "/static/js/main.3dfed606.js.map",
+    "main.c1028d8c.js.map": "/static/js/main.c1028d8c.js.map",
     "488.da4cd5cb.chunk.js.map": "/static/js/488.da4cd5cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c028c27e.css",
-    "static/js/main.3dfed606.js"
+    "static/js/main.c1028d8c.js"
   ]
 }
