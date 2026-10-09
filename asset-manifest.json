@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.c028c27e.css",
-    "main.js": "/static/js/main.c1028d8c.js",
+    "main.css": "/static/css/main.2cd7624b.css",
+    "main.js": "/static/js/main.270bc82f.js",
     "static/js/488.da4cd5cb.chunk.js": "/static/js/488.da4cd5cb.chunk.js",
-    "static/media/kwame-fiverr-pic-1.jpg": "/static/media/kwame-fiverr-pic-1.5fb0623fe896fef2bb32.jpg",
-    "static/media/kwame-fiverr-pic-2.jpg": "/static/media/kwame-fiverr-pic-2.feb7127b3f6a36176221.jpg",
-    "static/media/kwame-fiverr-pic-main.jpg": "/static/media/kwame-fiverr-pic-main.f0c17cec1a2fadafd3cf.jpg",
-    "static/media/kwame-fiverr-pic-3.jpg": "/static/media/kwame-fiverr-pic-3.b22611af5778de8fc438.jpg",
-    "static/media/kwame-ondg-founder-pic.jpg": "/static/media/kwame-ondg-founder-pic.782639de1e8631749670.jpg",
+    "static/media/kwame-fiverr-pic-main.jpg": "/static/media/kwame-fiverr-pic-main.b33e980f9547426bbec4.jpg",
+    "static/media/kwame-fiverr-pic-1.jpg": "/static/media/kwame-fiverr-pic-1.d81205008f79ffd6d7d1.jpg",
+    "static/media/kwame-fiverr-pic-2.jpg": "/static/media/kwame-fiverr-pic-2.aeae628de0713c0b69dc.jpg",
+    "static/media/kwame-ondg-founder-pic.jpg": "/static/media/kwame-ondg-founder-pic.90cdc8f3c2c88e664bf0.jpg",
+    "static/media/kwame-fiverr-pic-3.jpg": "/static/media/kwame-fiverr-pic-3.8375fbe02726edffc9a7.jpg",
     "static/media/instagram-logo.png": "/static/media/instagram-logo.05fc4a80df32e796a401.png",
     "static/media/version1-logo-new.png": "/static/media/version1-logo-new.0882a91ab778dc33d969.png",
     "static/media/odourium.png": "/static/media/odourium.ed439a29fabec6750aa1.png",
@@ -21,12 +21,12 @@
     "static/media/Fiverr_logo.png": "/static/media/Fiverr_logo.802cef068fcda21885a3.png",
     "index.html": "/index.html",
     "static/media/vorim-logo.svg": "/static/media/vorim-logo.eb9ea8a472a69a10f3c24c2cc346462a.svg",
-    "main.c028c27e.css.map": "/static/css/main.c028c27e.css.map",
-    "main.c1028d8c.js.map": "/static/js/main.c1028d8c.js.map",
+    "main.2cd7624b.css.map": "/static/css/main.2cd7624b.css.map",
+    "main.270bc82f.js.map": "/static/js/main.270bc82f.js.map",
     "488.da4cd5cb.chunk.js.map": "/static/js/488.da4cd5cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c028c27e.css",
-    "static/js/main.c1028d8c.js"
+    "static/css/main.2cd7624b.css",
+    "static/js/main.270bc82f.js"
   ]
 }
